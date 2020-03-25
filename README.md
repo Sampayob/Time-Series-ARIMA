@@ -1,6 +1,6 @@
 # Time Series forecasting with ARIMA - step by step
 
-This project aims to show **how a time series forecasting is done** using the **ARIMA model**,**explaining each step** of the process for a better undestanding.
+This [project](https://github.com/Sampayob/Time-Series-ARIMA/blob/master/Time%20series%20forecast%20with%20ARIMA.ipynb) aims to show **how a time series forecasting is done** using the **ARIMA model**,**explaining each step** of the process for a better undestanding.
 
 ### Built With
 
